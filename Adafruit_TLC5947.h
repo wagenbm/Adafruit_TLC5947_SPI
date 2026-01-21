@@ -22,6 +22,7 @@
 #define _ADAFRUIT_TLC5947_H
 
 #include <Arduino.h>
+#include <SPI.h>
 
 /*!
  *    @brief  Class that stores state and functions for interacting with
